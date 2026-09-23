@@ -10,7 +10,7 @@
 
 A complete end-to-end system for **simultaneous detection of three retinal diseases** from a single fundus photograph: **Diabetic Retinopathy (DR)**, **Glaucoma**, and **Pathologic Myopia (PM)**. The system combines a **diffusion-based anomaly detector** with **disease-specific EfficientNet-B3 CNNs** and a **meta-classifier MLP** that fuses everything into a unified diagnosis — achieving **98.6% routing accuracy** across all three diseases.
 
-> Built by **Ayush Chaudhary** — Department of Computer Science and Engineering, Amity Centre for Artificial Intelligence (ACAI), Amity University, Noida.
+> Built by **Ayush Chaudhary** and **Aditya Singh** — Department of Computer Science and Engineering, Amity Centre for Artificial Intelligence (ACAI), Amity University, Noida.
 
 ---
 
